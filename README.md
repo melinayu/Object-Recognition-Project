@@ -49,7 +49,6 @@ face_recognition_system/
 ## How to Use
 
 ### 1. Face Registration
-<<<<<<< HEAD
 Use the `add_faces.py` notebook to register new users.
 
 #### Steps:
